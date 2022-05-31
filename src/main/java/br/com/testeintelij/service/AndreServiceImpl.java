@@ -4,7 +4,10 @@ import java.sql.SQLOutput;
 
 public class AndreServiceImpl {
 
-    //TODO criar métodos para manipuasdajshdaius
+
+    private void manipuasdajshdaius(){
+        System.out.println("metodo criado");
+    }
     public static void main(String[] args) {
 
         System.out.println("outro teste");
